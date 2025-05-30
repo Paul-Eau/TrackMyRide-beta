@@ -240,7 +240,7 @@
 ## 🚀 Prochaines versions
 
 ### Version 0.9.5 (prévue pour juin 2025)
-- Détection d'activité automatique pour seulement enresitré les trajets à vélo
+- Détection d'activité automatique pour seulement enresitrer les trajets à vélo
 - Intégration complète des groupes et défis communautaires
 - Import/export GPX complet avec métadonnées
 
